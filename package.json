@@ -1,0 +1,9 @@
+{
+  "name": "the-leak",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
